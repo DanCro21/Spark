@@ -2,7 +2,9 @@
 
 **Alumno:** Daniel Croche Soto
 **Módulo:** Spark Standalone 
-##Pasos
+
+### Pasos
+
 ### 1. Instalar Java, Python y herramientas
 
 ```bash
